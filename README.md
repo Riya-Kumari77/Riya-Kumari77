@@ -1,5 +1,22 @@
 # 💫 About Me:
-I’m currently working on:<br>Building projects related to Web Development, DBMS, and DSA, while exploring AI/ML and Data Science to strengthen my software development skills.<br>I’m looking to collaborate on:<br>Beginner-friendly and open-source projects in Web Development, Data Science, and AI/ML, and college-level mini projects.<br>I’m looking for help with:<br>Improving DSA problem-solving, real-world project building, and understanding AI/ML & Data Science concepts.<br> I’m currently learning:<br>Data Structures & Algorithms, DBMS, Web Development, and the basics of AI/ML & Data Science.<br>Ask me about:<br>BCA journey, beginner coding, DBMS/SQL basics, and getting started with projects.<br> Fun fact:<br>I love learning by building and aim to create smart & impactful software.
+
+I’m currently working on:<br>
+Developing practical applications using web technologies and databases, while gradually integrating intelligent features into my projects.<br><br>
+
+I’m looking to collaborate on:<br>
+Beginner-friendly open-source contributions, college mini-projects, and innovative ideas that solve real-world problems.<br><br>
+
+I’m looking for help with:<br>
+Designing industry-ready projects, strengthening problem-solving skills, and applying AI/ML concepts effectively.<br><br>
+
+I’m currently learning:<br>
+Core programming principles, efficient algorithms, database management, modern web tools, and introductory AI/ML & data concepts.<br><br>
+
+Ask me about:<br>
+My BCA journey, getting started in tech, building beginner projects, and working with databases.<br><br>
+
+Fun fact:<br>
+I enjoy turning simple ideas into smart and impactful software 🚀
 
 
 ## 🌐 Socials:
