@@ -1,20 +1,14 @@
 # 💫 About Me:
-
 I’m currently working on:<br>
 Developing practical applications using web technologies and databases, while gradually integrating intelligent features into my projects.<br><br>
-
 I’m looking to collaborate on:<br>
 Beginner-friendly open-source contributions, college mini-projects, and innovative ideas that solve real-world problems.<br><br>
-
 I’m looking for help with:<br>
 Designing industry-ready projects, strengthening problem-solving skills, and applying AI/ML concepts effectively.<br><br>
-
 I’m currently learning:<br>
 Core programming principles, efficient algorithms, database management, modern web tools, and introductory AI/ML & data concepts.<br><br>
-
 Ask me about:<br>
 My BCA journey, getting started in tech, building beginner projects, and working with databases.<br><br>
-
 Fun fact:<br>
 I enjoy turning simple ideas into smart and impactful software 🚀
 
