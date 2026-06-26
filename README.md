@@ -8,6 +8,16 @@ BCA Student • Full Stack Web Developer • AI & IoT Enthusiast
 Building practical software solutions with modern web technologies while exploring Artificial Intelligence, IoT, and intelligent web applications.
 </p>
 
+<p>
+<a href="https://www.linkedin.com/in/riya-kumari-633079336">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rnrmp754@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
 ---
 
 # About Me
@@ -100,20 +110,6 @@ Building practical software solutions with modern web technologies while explori
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-Kumari77&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# Connect With Me
-
-<p>
-<a href="https://www.linkedin.com/in/riya-kumari-633079336">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rnrmp754@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
 
 ---
