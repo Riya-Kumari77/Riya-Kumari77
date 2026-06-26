@@ -44,18 +44,7 @@ Building practical software solutions with modern web technologies while explori
 - WonderPlaces (Travel Listing Platform)
 - AI Weather Monitoring System using ESP32-C6
 - AI-powered Web Applications
-
-## Ask Me About
-
-- Java
-- C++
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
-- College Projects
-
+  
 ---
 
 # Tech Stack
