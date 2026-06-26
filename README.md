@@ -88,38 +88,6 @@ Building practical software solutions with modern web technologies while explori
 
 ---
 
-# Featured Projects
-
-## WonderPlaces
-
-A modern travel listing platform inspired by Airbnb.
-
-### Features
-
-- User Authentication
-- Image Upload
-- Reviews & Ratings
-- Interactive Maps
-- Cloudinary Integration
-- Responsive Design
-
----
-
-## AI Weather Monitoring System
-
-ESP32-C6-based IoT weather station with AI-powered insights.
-
-### Features
-
-- Live Temperature Monitoring
-- Humidity Monitoring
-- Telegram Notifications
-- Interactive Dashboard
-- Charts & Analytics
-- Historical Data Storage
-
----
-
 # GitHub Statistics
 
 <p align="center">
